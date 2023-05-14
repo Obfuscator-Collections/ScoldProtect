@@ -1,0 +1,2 @@
+# ScoldProtect
+Obfuscator for .NET
